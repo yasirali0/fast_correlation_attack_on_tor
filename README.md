@@ -6,7 +6,7 @@ This correlation attack is an implementation of [DeepCoFFEA Attack](https://gith
 
 0. Run the following command at the terminal to install the required libraries:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 1. - Download the training data from [here](https://drive.google.com/drive/folders/1PG0sF6AHHn_2LxyoIztwjpoxDmB7r39z?usp=sharing) and move it into the `./data/datasets/train_data` folder.
