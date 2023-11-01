@@ -2,6 +2,20 @@
 
 This correlation attack is an implementation of [DeepCoFFEA Attack](https://github.com/traffic-analysis/deepcoffea.git) but with reduced correlation time.
 
+## Abstract
+```
+The Tor network, renowned for its provision of online privacy and anonymity, faces the constant threat of correlation attacks that aim to compromise user identities.
+For almost two decades, these correlation attacks were based on statistical methods. However, in recent years, deep learning-based correlation attacks have been introduced to make them more accurate.
+Nevertheless, in addition to being accurate, fast correlation attacks on Tor are crucial for assessing the real-world viability of such attacks because reduced correlation time aids in estimating its practical implications.
+Moreover, a reduction in correlation time also helps improve efficiency and ensures practical relevance of the attack.
+The existing state-of-the-art implementation of a correlation attack on Tor suffers from slow performance and large memory requirements.
+For instance, training the model required 133 GB of memory, and correlating 10,000 flows takes about 976 seconds.
+In this paper, we present a novel GPU-based correlation strategy and a fast traffic flow loading technique to reduce time complexity by 7.12x compared to existing methods.
+Our computational approach, reliant on PyCUDA, facilitates the parallelization of operations used in the attack, thereby enabling efficient execution through the utilization of GPU architecture.
+Leveraging these two approaches, we introduced an improved correlation attack, which shows high accuracy and fast performance compared to state-of-the-art methods.
+Moreover, we address resource limitation issues by reducing memory consumption by 47.37% during the training phase, which allows the model to be trained with much fewer resources.
+```
+
 ## How to run the code?
 
 0. Run the following command at the terminal to install the required libraries:
