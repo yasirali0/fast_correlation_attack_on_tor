@@ -1,6 +1,7 @@
 # GPU-Accelerated Deep Learning-based Correlation Attack on Tor Networks
 
-This correlation attack is an implementation of [DeepCoFFEA Attack](https://github.com/traffic-analysis/deepcoffea.git) but with reduced correlation time.
+This repository contains the modified version of [DeepCoFFEA Attack](https://github.com/traffic-analysis/deepcoffea.git).
+Modifications include reduction in correlation time and reduction in memory consumption at training time.
 
 ## Abstract
 ```
