@@ -45,9 +45,14 @@ If you think our code is useful, please cite our paper:
   volume={11},
   number={},
   pages={124139-124149},
-  doi={10.1109/ACCESS.2023.3330208}}
+  doi={10.1109/ACCESS.2023.3330208}
+}
 ```
 
 
-## Reference
+## Acknowledgement
+
+We appreciate the authors of DeepCoFFEA for their valuable work on correlation attack on Tor.
+
+Here is the link to their GitHub Repo.
 https://github.com/traffic-analysis/deepcoffea
