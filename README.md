@@ -32,9 +32,6 @@ pip install -r requirements.txt
 3. Run `eval_dcf_pycuda.py` file for evaluation of correlation time on the created testing data i.e., 2094, 5000, 7500, and 10,000 flows.
 
 
-# References
-https://github.com/traffic-analysis/deepcoffea
-
 
 ## Citation
 
@@ -50,3 +47,7 @@ If you think our code is useful, please cite our paper:
   pages={124139-124149},
   doi={10.1109/ACCESS.2023.3330208}}
 ```
+
+
+## Reference
+https://github.com/traffic-analysis/deepcoffea
