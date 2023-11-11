@@ -1,4 +1,4 @@
-# GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks
+## GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks
 
 This is the official implementation of the paper [GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks](https://doi.org/10.1109/ACCESS.2023.3330208)
 
