@@ -34,3 +34,19 @@ pip install -r requirements.txt
 
 # References
 [deepcoffea](https://github.com/traffic-analysis/deepcoffea)
+
+
+## Citation
+
+If you think our code is useful, please cite our paper:
+```
+@ARTICLE{10309127,
+  author={Hafeez, Muhammad Asfand and Ali, Yasir and Han, Kyung Hyun and Hwang, Seong Oun},
+  journal={IEEE Access}, 
+  title={GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={124139-124149},
+  doi={10.1109/ACCESS.2023.3330208}}
+```
