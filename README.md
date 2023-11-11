@@ -1,7 +1,6 @@
-# GPU-Accelerated Deep Learning-based Correlation Attack on Tor Networks
+# GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks
 
-This repository contains the modified version of [DeepCoFFEA Attack](https://github.com/traffic-analysis/deepcoffea.git).
-Modifications include reduction in correlation time and reduction in memory consumption at training time.
+This is the official implementation of the paper [GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks](https://doi.org/10.1109/ACCESS.2023.3330208)
 
 ## Abstract
 ```
@@ -31,3 +30,7 @@ pip install -r requirements.txt
 2. Run `train_fens.py` file to train the deep learning model for correlating the Tor and exit flows.
 
 3. Run `eval_dcf_pycuda.py` file for evaluation of correlation time on the created testing data i.e., 2094, 5000, 7500, and 10,000 flows.
+
+
+# References
+[deepcoffea](https://github.com/traffic-analysis/deepcoffea)
