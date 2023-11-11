@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 
 # References
-[deepcoffea](https://github.com/traffic-analysis/deepcoffea)
+https://github.com/traffic-analysis/deepcoffea
 
 
 ## Citation
