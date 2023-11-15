@@ -51,8 +51,9 @@ If you think our code is useful, please cite our paper:
 
 
 ## Acknowledgement
+We appreciate the IEEE Access reviewers for their insightful comments.
 
-We appreciate the authors of DeepCoFFEA for their valuable work on correlation attack on Tor.
+Additionally, we appreciate the authors of DeepCoFFEA for their valuable work on correlation attack on Tor.
 
 Here is the link to their GitHub Repo.
 https://github.com/traffic-analysis/deepcoffea
